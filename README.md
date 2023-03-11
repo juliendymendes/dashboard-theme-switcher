@@ -6,7 +6,6 @@ This is a solution to the [Social media dashboard with theme switcher challenge 
 
 ### The challenge
 
-
 Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
@@ -23,7 +22,7 @@ Users should be able to:
 
 ### What I learned
 
-WiWith this project I learned how to change values ​​of CSS variables via JavaScript in addition to practicing concepts such as responsiveness and Grid layouts.
+With this project I learned how to change values ​​of CSS variables via JavaScript in addition to practicing concepts such as responsiveness and Grid layouts.
 
 ### Built with
 
